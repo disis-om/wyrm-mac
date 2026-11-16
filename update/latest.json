@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "productName": "Wyrm",
+  "packageName": "com.wyrm.mac",
+  "platform": "macos",
+  "versionCode": 126,
+  "versionName": "1.2.6",
+  "minimumVersionCode": 0,
+  "mandatory": false,
+  "setupUrl": "https://github.com/disis-om/wyrm-mac/releases/download/v1.2.6/Wyrm-1.2.6-mac-universal-portable.zip",
+  "setupSize": 204278939,
+  "sha256": "761c7556e3591db38a6388f1928d534da4acfae3dd629b78adf0edc865f2784d",
+  "dmgUrl": "https://github.com/disis-om/wyrm-mac/releases/download/v1.2.6/Wyrm-1.2.6-mac-universal.dmg",
+  "dmgSize": 206730542,
+  "dmgSha256": "31626abdf9ca19446ddef61dba8f6585446ef40f68fa73793fba930a79f1361c",
+  "publishedAt": "2026-11-16T14:00:52Z",
+  "headline": "A new version of Wyrm",
+  "author": "OM Rajput",
+  "releaseNotes": ["First Wyrm for Mac release"]
+}
